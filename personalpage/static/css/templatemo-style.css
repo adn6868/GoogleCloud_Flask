@@ -92,7 +92,7 @@ p {
 }
 
 .section-btn:hover {
-  background: #E3AE57;
+  background: #7F8C8D;
   border-color: transparent;
   color: #ffffff;
 }
@@ -144,7 +144,7 @@ footer {
 
 #experience,
 #education {
-  background: #E9724C;
+  background: #89C4F4;
 }
 
 .background-image {
@@ -165,11 +165,11 @@ footer {
 }
 
 .color-yellow {
-  color: #E3AE57;
+  color: #7F8C8D;
 }
 
 .bg-yellow {
-  background: #E3AE57;
+  background: #7F8C8D;
 }
 
 .bg-white {
@@ -191,14 +191,14 @@ html{
 }
 
 a {
-  color: #E3AE57;
+  color: #7F8C8D;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-  color: #E3AE57;
+  color: #7F8C8D;
   outline: none;
 }
 
@@ -252,7 +252,7 @@ a:hover, a:active, a:focus {
   margin-top: -10px;
   margin-left: -10px;
   border-radius: 50%;
-  border: 2px solid #E3AE57;
+  border: 2px solid #7F8C8D;
   border-top-color: #f9f9f9;
   animation: spinner .6s linear infinite;
 }
@@ -297,7 +297,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #E3AE57;
+    color: #7F8C8D;
 }
 
 .custom-navbar .navbar-nav > li > a:hover,
@@ -307,7 +307,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .nav li.active > a {
     background-color: transparent;
-    color: #E3AE57;
+    color: #7F8C8D;
 }
 
 .custom-navbar .navbar-toggle {
@@ -320,7 +320,7 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .navbar-toggle .icon-bar {
-    background: #E3AE57;
+    background: #7F8C8D;
     border-color: transparent;
 }
 
@@ -416,7 +416,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #service {
-  background: #E9724C;
+  background: #89C4F4;
 }
 
 #service p {
@@ -462,7 +462,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #education {
-  background: #E3AE57;
+  background: #7F8C8D;
 }
 
 #education .education-img {
@@ -523,7 +523,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #contact {
-  background: #E9724C;
+  background: #89C4F4;
 }
 
 #contact .contact-form,
@@ -549,7 +549,7 @@ a:hover, a:active, a:focus {
 #contact .form-control {
   background: transparent;
   border: none;
-  border-bottom: 1px solid #E3AE57;
+  border-bottom: 1px solid #7F8C8D;
   border-radius: 0px;
   box-shadow: none;
   color: #ffffff;
@@ -631,7 +631,7 @@ footer {
 }
 
 .social-icon li a:hover {
-    background: #E3AE57;
+    background: #7F8C8D;
     border-color: #ffffff;
     color: #ffffff;
     transform: scale(1.1);
