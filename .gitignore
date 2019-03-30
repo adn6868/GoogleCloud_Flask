@@ -2,3 +2,8 @@
 comming soon/env/*
 comming soon/lib/*
 comming soon/.gcloudignore
+.DS_Store
+comming soon/static/.DS_Store
+comming soon/.DS_Store
+personalpage/.DS_Store
+personalpage/static/.DS_Store
